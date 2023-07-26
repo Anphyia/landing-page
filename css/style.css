@@ -138,4 +138,26 @@ h2 {
     border-radius: 16px;
 }
 
+/* Quote Section */
+.quote {
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    padding: 0 200px;
+    
+}
+
+.quote p {
+    font-size: 36px;
+    font-weight: 200;
+    font-style: italic;
+    align-self: center;
+    text-align: right; 
+}
+
+#author {
+    margin-left: auto;
+}
+
+
 
