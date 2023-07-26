@@ -160,7 +160,6 @@ h2 {
 }
 
 /* Sign Up Section */
-
 .sign-up {
     display: flex;
     justify-content: center;
@@ -190,4 +189,12 @@ strong {
     border: 2px solid #FFF;
 }
 
-
+/* Footer Section*/
+.footer {
+    background-color: #1f2937;
+    color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1em 0;
+}
