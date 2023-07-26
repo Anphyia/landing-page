@@ -36,7 +36,6 @@ body {
     color: #F9FAF8;
     display: flex;
     align-items: center;
-
 }
 
 .header-links {
@@ -176,7 +175,7 @@ h2 {
     height: 10em;
     border-radius: 10px;
 }
-strong {
+.sign-up-container strong {
     display: flex;
 }
 
